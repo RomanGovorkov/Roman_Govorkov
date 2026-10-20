@@ -60,7 +60,7 @@ from random import * #randint (a,b) juhusluk täisarv a ja b vahel
  # diagonaal = sqrt(N**2 + M**2) #** astendamine
  # print("Ristkülikukujulise maatüki diagonaal on:", round(diagonaal,2))
  #round()ümardab kahe kümnendkohani
-
+  
 #Ülesanne6
 #Найдите логическую ошибку в следующем примере программы:
 # aeg = float(input("Mitu tundi kulus sõiduks? "))
@@ -116,3 +116,4 @@ from random import * #randint (a,b) juhusluk täisarv a ja b vahel
 # kokku = pitsa_hind + jootraha
 
 #Ülesanne 11
+y iuyuiyuuiyu
