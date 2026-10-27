@@ -116,4 +116,4 @@ from random import * #randint (a,b) juhusluk täisarv a ja b vahel
 # kokku = pitsa_hind + jootraha
 
 #Ülesanne 11
-y iuyuiyuuiyu
+# u
