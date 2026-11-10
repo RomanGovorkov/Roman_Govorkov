@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="teema2.py" />
     <Compile Include="Too_1_3.py" />
     <Compile Include="Roman_Govorkov.py" />
     <Compile Include="Too_1_1.py" />
