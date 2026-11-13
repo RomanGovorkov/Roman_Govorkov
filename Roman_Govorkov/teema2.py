@@ -82,4 +82,4 @@ try:
 except ValueError:
     print("Valed andmed. Sisesta arv")
 
-    #<3jjhn
+    #
