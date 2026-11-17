@@ -36,5 +36,12 @@ else:
 #  kas nad on täna pinginaabrid või mitte. Kui mõnes nimes on numbreid või muid märke, kuva veateade.
 # Otsusta ise, kuidas „pinginaabrid“ määratakse, näiteks juhuslikult või nimede algustähtede järgi.
 
-pinginaabrid=["Kiruha", "Romanich]
+pinginaabrid=["Kiruha", "Romanich"]
 nimi1=input("Sisesta nimi:")
+nimi2=input("Sisesta nimi: ")
+if nimi1.isalpha() and nimi2.isalpha():
+       print(f"Tere {nimi1.capitalize89} ja {nimi2.capitalize()}")
+       if nimi1.capitalize() in pinginaabrid
+else:
+    print("Viga: nimed on valesti sisestatud! Kasuta ainult tähed")
+      
