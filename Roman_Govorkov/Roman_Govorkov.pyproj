@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Hindaline_too.py" />
     <Compile Include="Too_2_1.py" />
     <Compile Include="teema2.py" />
     <Compile Include="Too_1_3.py" />
